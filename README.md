@@ -1,2 +1,0 @@
-# aneterna
-Eternal Beauty
