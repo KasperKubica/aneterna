@@ -1,3 +1,13 @@
 body {
   background: #fffff0;
 }
+
+#content {
+  width: 100%;
+  margin: 200px auto;
+  text-align: center;
+}
+
+img {
+  margin: 0 auto;
+}
